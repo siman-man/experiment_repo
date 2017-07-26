@@ -1,4 +1,4 @@
-source_repository_url: https://github.com/rails/rails.git
+source_repository_url: https://github.com/siman-man/doc_sandbox.git
 target_repository_url: https://github.com/siman-man/experiment_repo.git
 source_branch: master
 target_branch: master
